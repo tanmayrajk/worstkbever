@@ -2,7 +2,7 @@
 
 ## demo
 
-Image redirects to the video
+image redirects to the video
 [![Image redirects to the video](https://cloud-a42ea3urd-hack-club-bot.vercel.app/0demo.jpg)](https://www.youtube.com/shorts/FnlSxVaX2-Q)
 
 ## wiring

@@ -3,7 +3,7 @@
 ## demo
 
 image redirects to the video
-[![Image redirects to the video](https://cloud-a42ea3urd-hack-club-bot.vercel.app/0demo.jpg)](https://youtu.be/NR1AaP_mYXU)
+[![Image redirects to the video](https://cloud-a42ea3urd-hack-club-bot.vercel.app/0demo.jpg)](https://drive.google.com/file/d/1J8Ngn0I9apfTrB-6boFNqwfAKi9t8MW6/view?usp=drivesdk)
 
 ## wiring
 

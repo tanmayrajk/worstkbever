@@ -2,7 +2,7 @@
 
 ## demo
 
-[![Alt text](https://cloud-a42ea3urd-hack-club-bot.vercel.app/0demo.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Alt text](https://cloud-a42ea3urd-hack-club-bot.vercel.app/0demo.jpg)](https://www.youtube.com/shorts/FnlSxVaX2-Q)
 
 ## wiring
 
